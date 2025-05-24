@@ -10,6 +10,9 @@ This project implements a complete computer vision pipeline for plant leaf disea
 * **Quantify** the percentage of infected leaf area.
 * **Provide** an easy-to-use web interface for users to upload leaf photos and immediately view disease predictions, mask overlays, and infection gauges.
 
+## Dataset
+Download the dataset from: https://www.kaggle.com/datasets/emmarex/plantdisease
+
 ## Workflow Overview
 
 1. **Leaf Extraction**
